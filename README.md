@@ -81,6 +81,10 @@ This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) fil
 
 - **Nahom Keneni**
 
+## Email
+
+- **nahomkeneni4@gmail.com**
+
 ---
 
 *For any questions or contributions, please open an issue or submit a pull request.*
